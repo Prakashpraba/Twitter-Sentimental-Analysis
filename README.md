@@ -1,7 +1,7 @@
 # Twitter-Sentimental-Analysis 🤖🥶🥵🤬😃😰😭
 I've taken a dataset that has more than 30k tweets and performed sentimental Analysis on that using the Logistic Regression algorithm
 ## DataSet 📊📈
-Data set has two csv files training.csv and test.csv
+Data set has two csv files training.csv and test.csv The data has been provided wih this repositary (https://github.com/Prakashpraba/Twitter-Sentimental-Analysis/blob/main/Twitter%20Data.zip)
 ## Data Cleaning 🧹
  - Links removal
  - Removing the username
